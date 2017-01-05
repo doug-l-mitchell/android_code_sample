@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5a88e4</color>
+    <color name="colorPrimaryDark">#0d388e</color>
+    <color name="colorAccent">#B28623</color>
+
+    <color name="faintWhite">#0FFFFFFF</color>
+
+    <color name="success">#3a009900</color>
+    <color name="succcessDark">#3a007700</color>
+
+    <color name="danger">#3aff0000</color>
+    <color name="dangerDark">#3aAA0000</color>
+
+
+    <color name="disabled">#cfcfcf</color>
+</resources>
